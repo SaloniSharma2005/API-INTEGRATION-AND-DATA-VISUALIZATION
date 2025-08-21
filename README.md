@@ -86,4 +86,7 @@ Task 1 is not just a coding exercise—it’s a gateway into dynamic data-driven
 
 
 OUTPUT:
-<img width="1088" height="439" alt="image" src="https://github.com/user-attachments/assets/7b8b0b12-f02c-4b8f-a465-04bbad28213a" />
+<img width="1146" height="250" alt="image" src="https://github.com/user-attachments/assets/173d327e-a0a0-49a9-8a05-7e44724a2d22" />
+
+<img width="1792" height="998" alt="image" src="https://github.com/user-attachments/assets/7c2da55d-fdb7-48f1-89b9-ebd2b4d45350" />
+
